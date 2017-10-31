@@ -11,6 +11,7 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         { 
+            // the best console app ever made by logan
             for (int i = 1; i <= 100; i++)
             {
                 string results = "";
